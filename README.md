@@ -37,11 +37,11 @@
 
 ```bash
 # 安装到全局（所有项目都能用）
-git clone https://github.com/{你的用户名}/know-thyself ~/.claude/skills/know-thyself
+git clone https://github.com/qwqovoewe/know-thyself ~/.claude/skills/know-thyself
 
 # 或安装到当前项目
 mkdir -p .claude/skills
-git clone https://github.com/{你的用户名}/know-thyself .claude/skills/know-thyself
+git clone https://github.com/qwqovoewe/know-thyself .claude/skills/know-thyself
 ```
 
 安装后直接使用 `/know-thyself` 命令。
@@ -49,7 +49,7 @@ git clone https://github.com/{你的用户名}/know-thyself .claude/skills/know-
 ### 其他 AI Agent（Cursor、Cline、Codewiz 等）
 
 ```bash
-git clone https://github.com/{你的用户名}/know-thyself
+git clone https://github.com/qwqovoewe/know-thyself
 ```
 
 然后告诉你的 agent：
