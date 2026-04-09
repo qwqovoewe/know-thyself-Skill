@@ -1,4 +1,4 @@
-# know-thyself
+# know-thyself.Skill
 
 > 现有项目：把你的历史数据喂给 AI
 > 这个项目：让 AI 通过对话把你从你自己身上挖出来
